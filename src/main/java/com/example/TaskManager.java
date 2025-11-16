@@ -15,7 +15,7 @@ public class TaskManager {
     }
 
     public void printTasks() {
-        System.out.println("Список задач:");
+        System.out.println("Task list:");
         for (String task : tasks) {
             System.out.println("- " + task);
         }
