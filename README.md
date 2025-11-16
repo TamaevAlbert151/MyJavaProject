@@ -12,7 +12,7 @@
 
 ## Установка и запуск
 1. Клонируйте репозиторий:
-git clone https://github.com/yourusername/MyJavaProject.git
+git clone https://github.com/TamaevAlbert151/MyJavaProject.git
 cd MyJavaProject
 
 2 Скомпилируйте проект:
