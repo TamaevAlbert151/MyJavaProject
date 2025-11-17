@@ -18,7 +18,7 @@ cd MyJavaProject
 2 Скомпилируйте проект:
 javac -d out src/main/java/com/example/*.java
 
-3. Запустите приложение:
+3. Запустите приложение:  
 java -cp out com.example.App
 
 4. Примеры использования
