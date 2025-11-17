@@ -12,14 +12,14 @@
 
 ## Установка и запуск
 1. Клонируйте репозиторий:
-git clone https://github.com/TamaevAlbert151/MyJavaProject.git
-cd MyJavaProject
+```git clone https://github.com/TamaevAlbert151/MyJavaProject.git```
+```cd MyJavaProject```
 
 2 Скомпилируйте проект:
-javac -d out src/main/java/com/example/*.java
+```javac -d out src/main/java/com/example/*.java```
 
 3. Запустите приложение:  
-java -cp out com.example.App
+```java -cp out com.example.App```
 
 4. Примеры использования
 
