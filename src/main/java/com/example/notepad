@@ -1,0 +1,7 @@
+notepad src\main\java\com\example\taskmanager\model\Task.java
+notepad src\main\java\com\example\taskmanager\repository\TaskRepository.java
+notepad src\main\java\com\example\taskmanager\repository\InMemoryTaskRepository.java
+notepad src\main\java\com\example\taskmanager\service\TaskService.java
+notepad src\main\java\com\example\taskmanager\service\TaskServiceImpl.java
+notepad src\main\java\com\example\taskmanager\ui\ConsoleUI.java
+notepad src\main\java\com\example\taskmanager\App.java
